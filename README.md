@@ -3,6 +3,10 @@
 没有经过电调，用三极管搭建的三路半桥控制。  
 ![brushness_controller.jpg](https://github.com/nicekwell/brushness_controller/raw/master/brushness_controller.jpg)
 
+视频：
+控制云台无刷电机：<http://v.youku.com/v_show/id_XMTg5Nzc2ODIxNg==.html>
+控制飞行器无刷电机（转不起来）：<http://v.youku.com/v_show/id_XMTg5Nzc3MjgzNg==.html>
+
 # 功能
 上方是三路半桥，每路的上三极管和下三极管的导通都受单片机控制（总共6个控制脚）。  
 下方是5个按键，从左到右功能依次是：  
